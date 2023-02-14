@@ -1,8 +1,5 @@
 # tomoya4605
 
-## AppName
-
-
 ## 使用言語
 
 HTML CSS JavaScript
